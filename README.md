@@ -1,6 +1,6 @@
 NoChat
 ======
 NoChat plugin
-### Usage
+Usage
 =====
 Drop the plugin in your `/plugins` directory
